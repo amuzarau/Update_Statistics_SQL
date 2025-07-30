@@ -14,3 +14,5 @@ ORDER BY
 sp.modification_counter DESC;
 
 --UPDATE STATISTICS Sales.DBCustomers
+
+--EXEC sp_updatestats
